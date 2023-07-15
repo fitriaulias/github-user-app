@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Write your review here..</string>
+    <string name="send">Kirim</string>
+    <string name="login">Username</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata..</string>
+    <string name="name">Nama</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="number_followers">10</string>
+    <string name="number_following">10</string>
+    <string name="content_follow">Content</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="setting">Setting</string>
+    <string name="no_favorite">Oops! There is no favorite user here..</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
